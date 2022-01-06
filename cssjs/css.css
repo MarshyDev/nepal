@@ -3,6 +3,7 @@ body {
 }
 #title {
   text-align: center;
+ position: center;
   font-family: 'Kanit', sans-serif;
   margin: auto;
   width: 50%;
