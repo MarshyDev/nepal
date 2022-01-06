@@ -1,7 +1,7 @@
 body {
  font-family: 'Kanit', sans-serif;
 }
-.title {
+#title {
   text-align: center;
   font-family: 'Kanit', sans-serif;
   margin: auto;
