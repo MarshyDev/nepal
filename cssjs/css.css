@@ -1,6 +1,5 @@
 body, html {
   height: 100%;
-  font-size: 22px;
   font-family: 'Kanit', sans-serif;
 }
 
@@ -19,7 +18,9 @@ body, html {
   background-size: cover;
   position: relative;
 }
-
+p {
+    font-size: 22px;
+}
 /* Place text in the middle of the image */
 .hero-text {
   text-align: center;
