@@ -31,9 +31,10 @@ p {
   color: white;
 }
 .end {
-  text-align: center;
+  align: center;
 }
 .bnote {
-  text-align: center;
-  color: grey;
+  align: center;
+  color: rgb(211,211,211);
+  font-size: 7px;
 }
