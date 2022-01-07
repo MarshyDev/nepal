@@ -2,7 +2,9 @@ body, html {
   height: 100%;
   font-family: 'Kanit', sans-serif;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 /* The hero image */
 .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
@@ -31,7 +33,7 @@ p {
   color: white;
 }
 #end {
-  font-size: 32px
+  font-size: 32px;
   text-align: center;
 }
 #bnote {
@@ -40,6 +42,7 @@ p {
   font-size: 9px;
 }
 #myBtn {
+  align-items: center;
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
   background-color: red; /* Set a background color */
