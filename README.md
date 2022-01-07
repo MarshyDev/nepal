@@ -1,3 +1,3 @@
 # nepal
 school
-just open 'index.html'. thats it.
+just open the link thats on the right side of the screen. thats it.
