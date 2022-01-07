@@ -31,10 +31,10 @@ p {
   color: white;
 }
 #end {
-  align: center;
+  text-align: center;
 }
 #bnote {
-  align: center;
+  text-align: center;
   color: rgb(211,211,211);
   font-size: 7px;
 }
