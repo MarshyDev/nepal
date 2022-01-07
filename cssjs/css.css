@@ -35,15 +35,17 @@ p {
 #end {
   font-size: 32px;
   text-align: center;
+  align-self: center;
 }
 #bnote {
   text-align: center;
+    align-self: center;
   color: rgb(211,211,211);
   font-size: 9px;
 }
 #myBtn {
   display: none; /* Hidden by default */
-  position: fixed; /* Fixed/sticky position */
+  position: sticky; /* Fixed/sticky position */
   bottom: 20px; /* Place the button at the bottom of the page */
   right: 30px; /* Place the button 30px from the right */
   z-index: 99; /* Make sure it does not overlap */
