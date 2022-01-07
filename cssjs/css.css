@@ -30,10 +30,10 @@ p {
   transform: translate(-50%, -50%);
   color: white;
 }
-.end {
+#end {
   align: center;
 }
-.bnote {
+#bnote {
   align: center;
   color: rgb(211,211,211);
   font-size: 7px;
