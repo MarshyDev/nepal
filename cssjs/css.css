@@ -21,6 +21,15 @@ html {
   background-size: cover;
   position: relative;
 }
+h1 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+h2 {
+  color: white;
+}
 p {
 color: white;
       font-size: 18px;
