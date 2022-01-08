@@ -6,4 +6,4 @@ clothing -- https://www.holidify.com/pages/dresses-of-nepal-2127.html
 Society -- https://www.cia.gov/the-world-factbook/countries/nepal/#introduction
 Architecture -- https://en.wikipedia.org/wiki/Architecture_of_Nepal
 Art -- https://en.wikipedia.org/wiki/Nepalese_painting
-Traditions -- 
+Traditions -- wikipedia, im not getting the link again
