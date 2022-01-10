@@ -65,3 +65,99 @@ color: white;
   color: rgb(211,211,211);
   font-size: 9px;
 }
+#food1 {
+  background-image: url('images/food/food1.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#food2 {
+  background-image: url('images/food/food2.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#food3 {
+  background-image: url('images/food/food3.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#clothes1 {
+  background-image: url('images/clothes/clothes1.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#clothes2 {
+  background-image: url('images/clothes/clothes2.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#clothes3 {
+  background-image: url('images/clothes/clothes3.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#clothes4 {
+  background-image: url('images/clothes/clothes4.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#clothes5 {
+  background-image: url('images/clothes/clothes5.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#a1 {
+  background-image: url('images/architecture/a1.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#a2 {
+  background-image: url('images/architecture/a2.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#a3 {
+  background-image: url('images/architecture/a3.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#art1 {
+  background-image: url('images/art/art1.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#art2 {
+  background-image: url('images/art/art2.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#trad1 {
+  background-image: url('images/traditions/trad1.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#trad2 {
+  background-image: url('images/traditions/trad2.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#trad3 {
+  background-image: url('images/traditions/trad3.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
