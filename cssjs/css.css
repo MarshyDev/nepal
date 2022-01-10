@@ -70,94 +70,126 @@ color: white;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
 #food2 {
   background-image: url('images/food/food2.jpeg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
 #food3 {
   background-image: url('images/food/food3.jpeg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
 #clothes1 {
   background-image: url('images/clothes/clothes1.jpeg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
 #clothes2 {
   background-image: url('images/clothes/clothes2.png');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
 #clothes3 {
   background-image: url('images/clothes/clothes3.jpeg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
 #clothes4 {
   background-image: url('images/clothes/clothes4.jpeg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
 #clothes5 {
   background-image: url('images/clothes/clothes5.jpeg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
 #a1 {
   background-image: url('images/architecture/a1.jpeg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
 #a2 {
   background-image: url('images/architecture/a2.jpeg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
 #a3 {
   background-image: url('images/architecture/a3.jpeg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
 #art1 {
   background-image: url('images/art/art1.jpeg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
 #art2 {
   background-image: url('images/art/art2.jpeg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
 #trad1 {
   background-image: url('images/traditions/trad1.jpeg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
 #trad2 {
   background-image: url('images/traditions/trad2.jpeg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
 #trad3 {
   background-image: url('images/traditions/trad3.jpeg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+    width: 100vw;
+  height: 100vh;
 }
