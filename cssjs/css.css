@@ -9,6 +9,7 @@ background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(255,237,0,1) 28%, r
 }
 #ohno {
   color: white;
+  align-self: center;
   border-radius: 50%;
   background-color: #f44336;
   font-size: 24px;
