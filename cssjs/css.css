@@ -3,6 +3,10 @@ body, html {
   height: 100%;
   font-family: 'Kanit', sans-serif;
 }
+.oh-god {
+background: rgb(255,0,0);
+background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(255,237,0,1) 28%, rgba(13,255,0,1) 49%, rgba(0,212,255,1) 66%, rgba(110,0,255,1) 78%, rgba(255,0,239,1) 100%);
+}
 html {
   scroll-behavior: smooth;
 }
