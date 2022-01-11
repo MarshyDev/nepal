@@ -3,6 +3,18 @@ body, html {
   height: 100%;
   font-family: 'Kanit', sans-serif;
 }
+p {
+color: white;
+}
+h1 {
+color: white;
+}
+h2 {
+color: white;
+}
+h3 {
+color: white;
+}
 #nttb {
 text-align: center;
 }
