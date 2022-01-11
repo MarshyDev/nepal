@@ -1,1 +1,5 @@
-
+body, html {
+  background-color: rgb(40, 40, 43);
+  height: 100%;
+  font-family: 'Kanit', sans-serif;
+}
