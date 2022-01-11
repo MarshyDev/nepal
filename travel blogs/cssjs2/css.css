@@ -18,3 +18,11 @@ color: white;
 #nttb {
 text-align: center;
 }
+#ls1 {
+  background-image: url('images2/landscape/nls1.jpeg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+    width: 100vw;
+  height: 100vh;
+}
